@@ -96,7 +96,7 @@ const double _kActionSheetButtonHeight = 56.0;
 // Extracted from https://developer.apple.com/design/resources/.
 const Color _kDialogColor = CupertinoDynamicColor.withBrightness(
   color: Color(0xCCF2F2F2),
-  darkColor: Color(0xBF1E1E1E),
+  darkColor: Color(0xCC2d2d2d),
 );
 
 // Translucent light gray that is painted on top of the blurred backdrop as the
