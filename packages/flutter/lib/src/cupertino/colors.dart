@@ -537,7 +537,7 @@ class CupertinoColors {
     highContrastColor: Color.fromARGB(94, 60, 60, 67),
     darkHighContrastColor: Color.fromARGB(173, 84, 84, 88),
     elevatedColor: Color.fromARGB(73, 60, 60, 67),
-    darkElevatedColor: Color.fromARGB(153, 84, 84, 88),
+    darkElevatedColor: Color.fromARGB(153, 210, 210, 210),
     highContrastElevatedColor: Color.fromARGB(94, 60, 60, 67),
     darkHighContrastElevatedColor: Color.fromARGB(173, 84, 84, 88),
   );
